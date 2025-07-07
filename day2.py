@@ -1,3 +1,5 @@
+# /practice from demoqa site
+
 import time
 
 from selenium import webdriver
