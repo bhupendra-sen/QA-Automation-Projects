@@ -17,7 +17,7 @@ A collection of **Quality Assurance (QA)** practice projects, test case files, a
 ## 📖 About
 This repository contains:
 - ✅ Test case documents (Excel/CSV)
-- ✅ Manual QA practice projects
+- ✅ Automation QA practice projects
 - ✅ Notes and examples related to software testing
 
 It is designed for QA learners and professionals who want to practice creating, organizing, and maintaining test artifacts.
