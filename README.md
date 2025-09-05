@@ -1,4 +1,4 @@
-# QA-Projects
+# QA-Automation-Projects
 
 A collection of **Quality Assurance (QA)** practice projects, test case files, and resources to improve software testing skills.
 
